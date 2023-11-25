@@ -532,6 +532,7 @@
     "REACTION_CHAT": "Announcer Dans Le Chat",
     "REACTION_KICK_ATTACKER": "Exclure Attaquant",
     "REACTION_KICK_PLAYER": "Exclure Joueur",
+	"RECOVERY_WARN": "Utilisez les options de récupérations à vos risques et perils",
     "REFRESH": "Rafraichir",
     "REGION": "Region",
     "REGION_FILTER_DESC": "Il est hautement recommandé de laisser ce filtre activé",
