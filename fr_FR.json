@@ -183,7 +183,7 @@
     "GAME_CACHE_GO_ONLINE": "Mettre à jour le cache en ligne.",
     "GAME_CACHE_ON_INIT": "Mettre à jour le cache à l'initialisation",
     "GAME_CACHE_SINGLE_PLAYER_DESCRIPTION": "Vous êtes actuellement en solo, vous pouvez forcer la construction du cache en solo mais risquez de planter en passant en multijoueur ou en chargeant en ligne et en cache.",
-    "GAME_CACHE_UPDATE_CACHE": "Mise a jour de la cahce",
+    "GAME_CACHE_UPDATE_CACHE": "Mise a jour du cache",
     "GAME_CACHE_UPDATE": "YimMenu nécessite une reconstruction du cache du jeu. Cela peut prendre jusqu'à une minute pour générer.",
     "GAME_CACHE_UPDATING": "Mise à jour du cache, veuillez patienter...",
     "GAME_CACHE_WAITING_FOR_ONLINE": "Waiting for online to start cache update...",
